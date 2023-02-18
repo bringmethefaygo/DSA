@@ -11,9 +11,6 @@ def resbinary(array,x,low,high):
         else:
             return resbinary(array,x,low,mid-1)
 
-
-
-
 array = [3, 4, 5, 6, 7, 8, 9]
 x = 8
 
